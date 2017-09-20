@@ -1,0 +1,156 @@
+*{
+	margin: 0;
+	padding:0;
+}
+#container{
+	width: 1015px;
+	height: 1180px;
+	margin: 0 auto;
+	
+}
+
+body{
+	background-color: black;
+}
+#header{
+	display: block;
+	height: 60px;
+	background-color: white;
+}
+#header h1{
+	display: inline-block;
+	margin-left: 20px;
+	padding-top: 5px;
+	font-family: 'Permanent Marker', cursive, sans-serif;
+}
+#header h2{
+	display: inline-block;
+	margin-left: 420px;
+}
+#main{
+	background-color: #9665a3;
+	background: radial-gradient(#9665a3, #251628);
+	height: 1000px;
+}
+
+#about img{
+	width: 400px;
+	height: 230px;
+	display: inline-block;
+	margin: 20px;
+}
+#aboutinfo{
+	display: inline-block;
+	width: 550px;
+	height: 230px;
+	vertical-align: top;
+	margin-top: 20px;
+	background-color: white;
+	
+}
+#column1{
+	width: 310px;
+	height: 700px;
+	background-color:#fbf9fc;
+	background-image:
+    linear-gradient( to right,
+      #fbf9fc, #e7d5f2
+    );
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 20px;
+}
+#column2{
+	width: 310px;
+	height: 700px;
+	background-color:#fbf9fc;
+	background-image:
+    linear-gradient( to right,
+      #fbf9fc, #e7d5f2
+    );
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 20px;
+}
+#column3{
+	width: 310px;
+	height: 700px;
+	background-color:#fbf9fc;
+	background-image:
+    linear-gradient( to right,
+      #fbf9fc, #e7d5f2
+    ); 
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 20px;
+}
+.website{
+	height: 430px;
+}
+.website img{
+	width: 310px;
+	height: 200px;
+}
+.technology{
+	width: 310px;
+	height: 200px;
+	background-color:#fbf9fc;
+	background-image:
+    linear-gradient( to right,
+      #fbf9fc, #e7d5f2
+    );
+
+}
+.technology img{
+	width: 45px;
+	height: 45px;
+	margin: 10px 6px;
+	display: inline-block;
+
+
+}
+#footer{
+	height: 60px;
+	background-color: white;
+	margin-top: -10px;
+}
+#footer p{
+	text-align: center;
+	padding-top: 5px;
+	
+}
+#footer li{
+	display: inline-block;
+
+}
+#footer ul{
+	margin-left: 330px;
+}
+#footer img{
+	width: 15px;
+	height: 15px;
+	
+	margin-left: 10px;
+	
+}
+button{
+	display: block;
+	margin: 20px auto;
+	background-color: green;
+	border-radius: 10px;
+	padding:5px;
+
+}
+h3,h4{
+	background-color: #a29fa3;
+	background: radial-gradient(#5f5d60,#a29fa3);
+	padding:5px 10px;
+	color: white;
+}
+p{
+	margin:10px;
+}
+a{
+	margin-left: 10px;
+	color: black;
+}
